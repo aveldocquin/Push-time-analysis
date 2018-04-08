@@ -10,4 +10,4 @@ Database example:
 ![database example](https://raw.githubusercontent.com/aveldocquin/Push-time-analysis/master/docs/images/database_example.png)
 
 Output example:
-![database example](https://raw.githubusercontent.com/aveldocquin/Push-time-analysis/master/docs/images/database_example.png)
+![database example](https://raw.githubusercontent.com/aveldocquin/Push-time-analysis/master/docs/images/output_example.png)
