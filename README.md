@@ -6,4 +6,8 @@ It is running on Python 3.6.3.
 To execute it:
 	py pushTimeAnalysis <path to the database.csv>
 
-Documentation is available in the Documentation.pdf file.
+Database example:
+![database example](https://raw.githubusercontent.com/aveldocquin/Push-time-analysis/master/docs/images/database_example.png)
+
+Output example:
+![database example](https://raw.githubusercontent.com/aveldocquin/Push-time-analysis/master/docs/images/database_example.png)
