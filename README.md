@@ -6,7 +6,7 @@ It is running on Python 3.6.3 and can handle, on Windows 10, 1000000 entries in 
 ## Usage
 To execute it type "py pushTimeAnalysis.py database.csv"
 
-###Database example
+### Database example
 ![database example](https://raw.githubusercontent.com/aveldocquin/Push-time-analysis/master/docs/images/database_example.png)
 
 ## Demonstration
