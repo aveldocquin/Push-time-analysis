@@ -4,7 +4,7 @@ The purpose of this program is to get from a database of users and messages the 
 It is running on Python 3.6.3 and can handle, on Windows 10, 1000000 entries in ~5 seconds with a intel i7-4600u.
 
 ## Usage
-`py pushTimeAnalysis.py database.csv` To execute the program
+`py pushTimeAnalysis.py database.csv` Execute the program with the selected database.
 
 ### Database example
 ![database example](https://raw.githubusercontent.com/aveldocquin/Push-time-analysis/master/docs/images/database_example.png)
